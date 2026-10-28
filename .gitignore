@@ -1,0 +1,10 @@
+# MATLAB autosave and editor backup files
+*.asv
+*.m~
+
+# results written by example1_linf.m and example2_l2.m
+results/
+
+# OS files
+.DS_Store
+Thumbs.db

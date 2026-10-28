@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "EIV-LQR: code for Errors-in-variables data-driven receding-horizon LQR"
+type: software
+authors:
+  - family-names: Zheng
+    given-names: Jian
+repository-code: "https://github.com/J-mzz/EIV-LQR"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Errors-in-variables data-driven receding-horizon LQR"
+  authors:
+    - family-names: Zheng
+      given-names: Jian
+    - family-names: Sznaier
+      given-names: Mario
+  journal: "IEEE Control Systems Letters"
+  volume: 10
+  start: 1483
+  end: 1488
+  year: 2026
+  publisher:
+    name: IEEE
+  doi: "10.1109/LCSYS.2026.3709150"
